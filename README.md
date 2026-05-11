@@ -1,47 +1,71 @@
-# Life Stories
+# Brother Harry Legacy Archive
 
-This repository supports a free static legacy website and video-story archive for Harrypersad Maharaj, also known as Brother Harry.
+Preserving the life, work, values, and community impact of Harrypersad Maharaj, also known as Bro. Harry.
 
-The purpose of this project is to preserve short video stories, testimonials, oral-history clips, transcripts, captions, and related notes documenting his life, work, values, and community impact.
+---
+
+## Purpose
+
+This repository supports a free static legacy website and public archive for approved life stories, testimonials, oral-history clips, transcripts, captions, photographs, and related public materials.
+
+The archive is intended to remain factual, dignified, verifiable, respectful, and centred on service.
+
+---
 
 ## Public Website
 
-The public website is built as a static site using simple HTML and CSS. It is designed to work with GitHub Pages and does not require a paid website subscription, database, plug-in, or hosted content-management system.
+This project is built using simple HTML and CSS and is designed to work with GitHub Pages.
 
-## Important Publication Notice
+No paid website subscription, database, plug-in, or hosted content-management system is required.
 
-Only approved, verified, and permission-cleared materials should be published publicly. Private family materials, consent forms, raw recordings, identity documents, and unverified claims should not be placed on the public website.
+---
 
-## Suggested Repository Use
+## Archive Themes
 
-Use this repository for:
+- Life stories and personal reflections
+- Community service
+- Meditation and peacebuilding
+- Interfaith and spiritual work
+- Public leadership and humanitarian contribution
+- Media, culture, and national memory
+- Awards, honours, and verified public recognition
 
-- Website pages
-- Video titles and descriptions
-- Public transcripts
-- Captions
-- Thumbnails
-- Speaker and interview metadata
-- Permission status notes
-- Links to public video locations
+---
 
-Do not use this repository as the only storage location for original large video files. Keep master video files in offline backups and a separate archive.
+## Publication Standards
 
-## Folder Plan
+Only approved, verified, and permission-cleared materials should be published publicly.
+
+Private family materials, consent forms, raw recordings, identity documents, and unverified claims should not be placed on the public website.
+
+---
+
+## Design Direction
+
+The visual style follows a calm, professional spiritual legacy design using soft white, royal blue, gold, and light Caribbean accents.
+
+The tone should remain respectful, factual, peaceful, service-oriented, and rooted in Trinidad and Tobago.
+
+---
+
+## Suggested Archive Folders
 
 ```text
-assets/
-  images/
-  thumbnails/
-  documents/
+stories/
+  bro-harry-story-register.md
 
 transcripts/
-  README.md
+  approved-public-transcripts.md
 
-videos/
-  video-index.json
+photos/
+  approved-photo-notes.md
+
+permissions/
+  publication-permission-record.md
 ```
 
-## Legacy Principle
+---
 
-This archive should remain factual, dignified, verifiable, and respectful. Its purpose is preservation, not exaggeration.
+## Archive Principle
+
+Factual. Dignified. Verifiable. Respectful.
